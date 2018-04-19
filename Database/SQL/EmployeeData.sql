@@ -1,0 +1,59 @@
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em01','802563856v',60000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em02','732569874v',35000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em03','854236659v',52000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em04','695832154v',25000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em05','771254893v',55000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em06','873654102v',26000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em07','792585789v',51000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em08','964258935v',22000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em09','835687695v',60000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em10','844560178v',20000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em11','921285695v',50000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em12','770856955v',23000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em13','900578963v',45000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em14','749658425v',28000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em15','926598574v',48000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em16','745689524v',25000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em17','905914325v',40000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em18','518596923v',30000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em19','895855622v',55000);
+
+INSERT INTO Employee(EmpID,ValidID,salary)
+VALUES('Em20','502546855v',25000);

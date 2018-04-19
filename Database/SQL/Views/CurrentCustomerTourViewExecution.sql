@@ -1,0 +1,1 @@
+Select * from [CurrentCustomer_Tour];

@@ -1,0 +1,1 @@
+SELECT dbo.TotalPayment('pay111');

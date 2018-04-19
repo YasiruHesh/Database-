@@ -1,0 +1,1 @@
+EXEC GenerateMangementReport @PaymentID='pay222';
